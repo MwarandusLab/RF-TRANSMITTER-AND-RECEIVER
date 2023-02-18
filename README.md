@@ -31,4 +31,4 @@ HT12E is an encoder IC that converts the 4-bit parallel data from the 4 data pin
 
 The transmitter/receiver pair operates at a frequency of 434MHz. An RF transmitter receives serial data and transmits it wirelessly through RF through its antenna connected at pin 4. The transmission occur at the rate of 1kbps-10kbps. The transmitted data is received by an RF receiver operating at the same frequency as that  of the transmitter. The RF module is used with a pair of encoder and decoder. The encoder is used for encoding parallel data for transmission feed while reception is decoded by a decoder.
 
-![My Image](/Images/RF-transmitter and receiver.png)
+![My Image4](/Images/RF-transmitter and receiver.png)
